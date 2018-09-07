@@ -1,6 +1,7 @@
 function projectsList2(){
 	
 	var navTitles=['Finding Food on Facebook Messenger',
+	'A Gateway to Home',
 	'Instagram Concept', 
 	'Who is the Class of 2021?', 
 	'The Cost of Human Life', 
@@ -11,6 +12,7 @@ function projectsList2(){
 
 	//they all link to the same page, which generates code based on what project you select
 	var navLink=['https://medium.com/@sophiadeng/facebook-messenger-a-better-way-to-discover-and-compare-eateries-24d2836aef51',
+	'https://medium.com/@sophiadeng/homecoming-concert-commission-a-gateway-to-home-f412e6e4f349',
 	'https://medium.com/@sophiadeng/instagram-concept-diversifying-content-for-business-profiles-3ffe18f5df64',
 	'https://medium.com/@sophiadeng/the-creation-of-how-well-do-you-know-your-classmates-448fb9cbedf2', 
 	'https://medium.com/@sophiadeng/the-cost-of-human-life-41d99f55f951',
@@ -21,6 +23,7 @@ function projectsList2(){
 	];
 
 	var navDescriptions=['Having a meal is an inherently social activity. How might we allow people to easily make food plans with others through Messenger?',
+	'A poster commission that reflects homecoming, reunion and camaraderie through an organization identity.',
 	'Instagram Business is a powerful and versatile tool. How might we allow users to better showcase their talents?',
 	'Are the stereotypes about Cornell freshmen true? Watch us debunk or confirm some myths on this data visualization project (reached >16,000 users on Facebook).',
 	'Human mortality rates are decreasing, but at what cost? Practicing visual design in static data visualizations.',
@@ -32,6 +35,7 @@ function projectsList2(){
 	// Having a meal is an inherently social activity. how might we allow people to easily make plans with others through facebook messenger?
 
 	var roles = ['UX, PRODUCT DESIGN',
+	'GRAPHIC DESIGN, ILLUSTRATION',
 	'UX, PRODUCT DESIGN',
 	'CREATIVE DIRECTOR, DATA VISUALIZATION',
 	'VISUAL DESIGN, DATA VISUALIZATION',
