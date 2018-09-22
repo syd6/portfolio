@@ -148,7 +148,7 @@ function buildOtherProjects(){
 function buildNav(){
 	var navbar = document.getElementById("navbar");
 	var menuTitle = ['featured', 'other', 'art'];
-	var links = ['#', '','https://instagram.com/dengsoph_art'];
+	var links = ['#', '','https://www.dengsophia.com/'];
 	var projectBuild = [];
 	for (var i=0;i<menuTitle.length;i++){
 		if (menuTitle[i] == 'other' || menuTitle[i] == 'featured'){
